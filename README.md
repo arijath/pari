@@ -20,4 +20,4 @@ built using HTML, CSS and JavaScript.
 2. Open index.html in your browser.
 
 ## Author
-Your Name
+Your Name group4
